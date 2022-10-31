@@ -192,9 +192,7 @@ main()
             cin>>x;
             u[x]++;
         }
-
-
-
+	//incomplete
     }
 
     return 0;
